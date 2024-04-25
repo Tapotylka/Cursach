@@ -1,0 +1,14 @@
+style2.css
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F8F8F8;
+    margin-top: 82px;
+    margin-right: 5%;
+    margin-left: 5%;
+    flex-shrink: 5;
+}
